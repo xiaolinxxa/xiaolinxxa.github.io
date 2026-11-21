@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.xiaolinxxa.hskmoingay",
+        "sha256_cert_fingerprints": ["CE:9E:47:C9:F9:E5:F0:B0:9F:99:01:EB:80:54:2E:3F:E5:AF:17:7D:23:F6:BC:45:DB:52:AC:8B:11:2F:7D:BE"]
+      }
+    }]
